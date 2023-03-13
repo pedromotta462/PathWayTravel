@@ -1,0 +1,19 @@
+{
+    "name": "PathWayTravel",
+    "version": "1.0.0",
+    "description": "Website de agencia de viagem",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pedromotta462/PathWayTravel.git"
+    },
+    "author": "Pedro Motta",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/pedromotta462/PathWayTravel/issues"
+    },
+    "homepage": "https://github.com/pedromotta462/PathWayTravel#readme"
+  }
