@@ -2,7 +2,7 @@
 
  - Site de uma agência de viagens;
  
- -[Link para o site](https://pathwaytravelsite.web.app/)
+ - [Link para o site](https://pathwaytravelsite.web.app/)
 
  ## Screenshots
 
